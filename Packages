@@ -8,5 +8,5 @@ Author: Alluka3101
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/TransparentDock.deb
-Size: 4384
-MD5sum: 11a4504241391873e2aa7647a9fea262
+Size: 4174
+MD5sum: 3f3b015f337c5b8c697922df990effab
