@@ -10,3 +10,16 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/TransparentDock.deb
 Size: 4174
 MD5sum: 3f3b015f337c5b8c697922df990effab
+
+Package: com.alluka3101.ipadswitcher
+Name: iPadSwitcher
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: iPad Switcher For iPhone
+Maintainer: Alluka3101
+Author: Alluka3101
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iPadSwitcher.deb
+Size: 5706
+MD5sum: c314cb97597c1a14344e99999f5e1a95
