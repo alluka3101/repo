@@ -23,3 +23,16 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iPadSwitcher.deb
 Size: 5706
 MD5sum: c314cb97597c1a14344e99999f5e1a95
+
+Package: com.alluka3101.disableshuttersound
+Name: DisableShutterSound
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable Shutter Sound In Camera
+Maintainer: Alluka3101
+Author: Alluka3101
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/DisableShutterSound.deb
+Size: 4832
+MD5sum: 775b3c3113fec1fe3fc8a4dda57b3b04
